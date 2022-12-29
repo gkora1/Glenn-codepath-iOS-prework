@@ -8,7 +8,7 @@ University and pets app
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/zvy6tmP.gif" width=400><br>
+<img src="https://i.imgur.com/zvy6tmP.gif" width=600><br>
 
 ### Required Features
 
